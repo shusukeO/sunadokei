@@ -1,6 +1,6 @@
 #include <WiFi.h>
 
-const char SSID[] = "htwireless";
+const char SSID[] = "";
 const char PASSWORD[] = "";
 
 WiFiServer server(80);
